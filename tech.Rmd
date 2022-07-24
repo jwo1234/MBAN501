@@ -1,0 +1,9 @@
+# Business Analyst in Tech
+
+In this chapter we will cover the following content:
+
+- what does business analysts do in Tech industry
+- what skillsets are required and preferred
+- what is a day-to-day like for a business analyst in Tech
+- what is the differnece between business analyst, data analyst, data scientist, and machine learning engineer
+- how does they work in teams (with engineers and scientists, with stakeholders, with product managers, etc.)

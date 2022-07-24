@@ -1,0 +1,6 @@
+book_filename: "business_analysts_in_teams"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+rmd_files: ["index.Rmd", "01-intro.Rmd", "02-about_us.Rmd", "03-business_analytics_101.Rmd", "consulting.Rmd", "tech.Rmd", "finance.Rmd"]

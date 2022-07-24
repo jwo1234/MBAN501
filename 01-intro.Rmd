@@ -1,0 +1,41 @@
+# Introduction
+
+## **Introduction and Background**
+Too often, we find ourselves learning how to recruit and network to land jobs when in reality we do not know the full responsibilities a role entails. Since we are the first cohort of the MBAn program, all our peers and future MBAn students most likely consider some variation of business analytics role as their immediate career option. Our project aims to develop a broad framework to understand and navigate the Business Analyst role in different industries such as Consulting, Finance, and Tech, with an emphasis on how Business Analyst works in team settings. 
+
+<p>&nbsp;</p>
+
+## **Purpose and Objective**
+The purpose of this project is to gain valuable insights into the specific responsibilities of a business analyst in different industries, which we can use in the coming months to choose a career path. The objective is to understand the responsibilities and skills needed to work in these fields including both technical and soft skills. From there, the objective is to understand the nature of the team. We are interested in the growth and future of different positions, and finally, work/life balance. 
+
+<p>&nbsp;</p>
+
+## **Plan**
+* Conduct independent research on the roles and responsibilities of analysts and how they interact with other professionals in the same team.
+* Network and interview 3 different analysts in different industries. 
+
+## **Project Deliverables**
+* A RMarkdown document about 20 pages long
+* A presentation slides
+
+## **Interview Leads** 
+> ### **Consulting**
+  * McKinsey 
+  * ZS Solutions
+  * EY (tech consulting)
+
+> ### **Finance**
+  * Jackson National
+  * JP Morgan
+  * Goldman Sachs
+
+> ### **Tech**
+  * Google
+  * Amazon
+  * Microsoft
+
+## **Timeline**
+  * Proposal: July 20th
+  * Interviews due: Aug 10th 
+  * Group Project Specification: Aug 15th
+  * Group Project Presentation (ppt submission): Aug 16th
