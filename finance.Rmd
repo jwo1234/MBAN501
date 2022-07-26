@@ -1,6 +1,5 @@
 # Business Analyst in Finance
 
-## Content
 In this chapter we will cover the following content:
 
  - what does business analysts do in Finance industry
