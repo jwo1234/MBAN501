@@ -3,7 +3,7 @@
 ## Team 3: We Also Hate Python (aka MJJJJ)
 
 ```{r pic-team, echo=FALSE, out.width="100%"}
-knitr::include_graphics("_pictures/about_us/team_pic.jpeg")
+knitr::include_graphics("./_pictures/about_us/team_pic.jpeg")
 ```
 
 ## Madison Hartle
@@ -30,7 +30,7 @@ Here is a list of things that I enjoy:
 
 
 ```{r pic-Mattie, echo=FALSE, out.width="50%", fig.cap="A break from skiing."}
-knitr::include_graphics("_pictures/about_us/Mattie.jpeg")
+knitr::include_graphics("./_pictures/about_us/Mattie.jpeg")
 ```
 
 ## Jenny (Yajie) Xu
@@ -52,14 +52,14 @@ knitr::include_graphics("_pictures/about_us/Mattie.jpeg")
 **Favorite Coding Language**: R
 
 ```{r pic-Jenny, echo=FALSE, out.width = '30%'}
-knitr::include_graphics("_pictures/about_us/Jenny.jpeg")
+knitr::include_graphics("./_pictures/about_us/Jenny.jpeg")
 ```
 
 
 ## John Oraa
 
 ```{r pic-John, echo=FALSE, out.width="80%", fig.cap="John Oraa MBAn Class of 2023."}
-knitr::include_graphics("_pictures/about_us/John.jpeg")
+knitr::include_graphics("./_pictures/about_us/John.jpeg")
 ```
 
 ### My Life
@@ -100,7 +100,7 @@ I was born and raised in Shanghai, China and I came to the U.S in 2016 for high 
 I am actively looking for job opportunities in consulting, finance, supply chain and all other related areas in business. I'd love to own a consulting firm that focuses on innovative supply chain solutions for companies in the industry one day.
 
 ```{r pic-Jason, echo=FALSE, out.width="50%", fig.cap="Just me and my friend reflecting on life and Yes I was the one wearing shorts"}
-knitr::include_graphics("_pictures/about_us/Jason.jpeg")
+knitr::include_graphics("./_pictures/about_us/Jason.jpeg")
 ```
 
 ### Fun Facts!!!
@@ -112,7 +112,7 @@ knitr::include_graphics("_pictures/about_us/Jason.jpeg")
 * I co-own a company called _Lorna Kicks_ and we source fashion sneakers, street wears and electronics for clients
 
 ```{r pic-Jason-car, echo=FALSE, out.width="50%", fig.cap="My baby :) "}
-knitr::include_graphics("_pictures/about_us/Jason_car.jpeg")
+knitr::include_graphics("./_pictures/about_us/Jason_car.jpeg")
 ```
 
 ### Referral Links (**Not Financial Advice**)
@@ -142,7 +142,7 @@ knitr::include_graphics("_pictures/about_us/Jason_car.jpeg")
 ## Jeremy (Junli) Zhou
 
 ```{r, echo=FALSE, out.width="30%", fig.cap="me chilling on the beach"}
-knitr::include_graphics("_pictures/about_us/Jeremy.jpeg")
+knitr::include_graphics("./_pictures/about_us/Jeremy.jpeg")
 ```
 
 ### Background

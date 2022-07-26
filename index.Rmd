@@ -14,10 +14,6 @@ description: "This is guide to the roles of a Business Analyst in 3 highly desir
 
 Business Analyst in Teams
 
-```{r set-up, eval=TRUE, echo=TRUE}
-getwd()
-```
-
 ```{r pic-preface, echo=FALSE}
-knitr::include_graphics("_pictures/business_analytics_word_cloud.jpeg")
+knitr::include_graphics("./_pictures/business_analytics_word_cloud.jpeg")
 ```
