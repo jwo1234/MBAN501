@@ -14,7 +14,10 @@ description: "This is guide to the roles of a Business Analyst in 3 highly desir
 
 Business Analyst in Teams
 
-```{r pic-preface}
-# maybe add a pic here as a cover for the book
+```{r set-up}
+getwd()
+```
 
+```{r pic-preface, echo=False}
+knitr::include_graphics("_pictures/business_analytics_word_cloud.jpeg")
 ```
