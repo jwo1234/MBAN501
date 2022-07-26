@@ -3,7 +3,6 @@ fig:pic-John
 fig:pic-Jason
 fig:pic-Jason-car
 fig:unnamed-chunk-1
-preface
 introduction
 introduction-and-background
 purpose-and-objective

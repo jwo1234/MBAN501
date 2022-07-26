@@ -10,10 +10,10 @@ biblio-style: apalike
 link-citations: yes
 description: "This is guide to the roles of a Business Analyst in 3 highly desired industries (consulting, tech, and finance) and the role of business analysts in different teams."
 ---
-# Preface
+# Preface {-}
 
-Business Analyst in Teams
+## Business Analyst in Teams {-}
 
 ```{r pic-preface, echo=FALSE}
-knitr::include_graphics("./_pictures/business_analytics_word_cloud.jpeg")
+knitr::include_graphics("pictures/business_analytics_word_cloud.jpeg")
 ```
