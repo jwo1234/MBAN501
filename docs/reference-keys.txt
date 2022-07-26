@@ -1,3 +1,8 @@
+fig:pic-Mattie
+fig:pic-John
+fig:pic-Jason
+fig:pic-Jason-car
+fig:unnamed-chunk-1
 preface
 introduction
 introduction-and-background
@@ -32,9 +37,3 @@ business-analyst-101
 business-analyst-in-consulting
 business-analyst-in-tech
 business-analyst-in-finance
-content
-fig:pic-Mattie
-fig:pic-John
-fig:pic-Jason
-fig:pic-Jason-car
-fig:unnamed-chunk-1

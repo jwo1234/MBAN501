@@ -18,6 +18,6 @@ Business Analyst in Teams
 getwd()
 ```
 
-```{r pic-preface, echo=False}
+```{r pic-preface, echo=FALSE}
 knitr::include_graphics("_pictures/business_analytics_word_cloud.jpeg")
 ```
