@@ -14,7 +14,7 @@ description: "This is guide to the roles of a Business Analyst in 3 highly desir
 
 Business Analyst in Teams
 
-```{r set-up}
+```{r set-up, eval=TRUE, echo=TRUE}
 getwd()
 ```
 
