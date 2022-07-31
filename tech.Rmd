@@ -1,4 +1,4 @@
-# Business Analyst in Tech
+# Business Analyst in Tech {-}
 
 In this chapter we will cover the following content:
 

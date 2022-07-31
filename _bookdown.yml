@@ -3,5 +3,5 @@ language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
-rmd_files: ["index.Rmd", "01-intro.Rmd", "02-about_us.Rmd", "03-business_analytics_101.Rmd", "consulting.Rmd", "tech.Rmd", "finance.Rmd"]
+rmd_files: ["index.Rmd", "intro.Rmd", "about_us.Rmd", "business_analytics_101.Rmd", "consulting.Rmd", "tech.Rmd", "finance.Rmd"]
 output_dir: "docs"

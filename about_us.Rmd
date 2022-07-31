@@ -1,16 +1,16 @@
-# About Us
+# About Us {-}
 
-## Team 3: We Also Hate Python (aka MJJJJ)
+## Team 3: We Also Hate Python (aka MJJJJ) {-}
 
 ```{r pic-team, echo=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/about_us/team_pic.jpeg")
 ```
 
-## Madison Hartle
+## Madison Hartle {-}
 
 I am a recent graduate from the University of Michigan where I earned a bachelor's degree in Actuarial Mathematics. Currently, I am pursuing a masters degree in Business Analytics.
 
-### General Information
+### General Information {-}
 
 Here is a list of things that I enjoy:
 
@@ -21,7 +21,7 @@ Here is a list of things that I enjoy:
 - Writing poetry
 - Eating ice cream
 
-### Some things you probably didn't know
+### Some things you probably didn't know {-}
 
 1. My birthday is February 7th, 2000
 2. I've been bungee jumping twice
@@ -33,8 +33,8 @@ Here is a list of things that I enjoy:
 knitr::include_graphics("pictures/about_us/Mattie.jpeg")
 ```
 
-## Jenny (Yajie) Xu
-### Basic Information
+## Jenny (Yajie) Xu {-}
+### Basic Information {-}
 **First Name**: Yajie
 
 **Last Name**: Xu
@@ -56,21 +56,21 @@ knitr::include_graphics("pictures/about_us/Jenny.jpeg")
 ```
 
 
-## John Oraa
+## John Oraa {-}
 
 ```{r pic-John, echo=FALSE, out.width="80%", fig.cap="John Oraa MBAn Class of 2023."}
 knitr::include_graphics("pictures/about_us/John.jpeg")
 ```
 
-### My Life
+### My Life {-}
 
 Hello! My name is John. I am a 22 year old from a small town in Michigan called Fenton. Recently, I just graduated from the University of Michigan with my B.S.E in Mechanical Engineering. I recently began my masters at the Ross School of Business studying Business Analytics. 
 
 My goal is to combine my technical undergraduate skills and master degree to focus my efforts on improving the business of healthcare. 
 
-### My Accomlishments
+### My Accomlishments {-}
 
-#### Project Teams
+#### Project Teams {-}
 
 In my undergrad I was apart of a couple different design teams focusing on engineering and consulting our customer
 
@@ -78,7 +78,7 @@ In my undergrad I was apart of a couple different design teams focusing on engin
  - STARX which is the exoskeleton project engineering team developing an exoskeleton to be used in assisting Parkinsons patients
 
 
-#### Professional Experience
+#### Professional Experience {-}
 
 - Research: I have conducted research in human walking gait identification, parkinson's patients foot fall detection, mesh morphing.
 
@@ -87,8 +87,8 @@ In my undergrad I was apart of a couple different design teams focusing on engin
 - Commercial Sale/Business Analytics Experience 
 
 
-## Jason (Xiaodi) Pan
-### Background
+## Jason (Xiaodi) Pan {-}
+### Background {-}
 
 Hey everyone, my name is Xiaodi Pan and people usually call me Jason.
   
@@ -103,7 +103,7 @@ I am actively looking for job opportunities in consulting, finance, supply chain
 knitr::include_graphics("pictures/about_us/Jason.jpeg")
 ```
 
-### Fun Facts!!!
+### Fun Facts!!! {-}
 * I speak fluent Shanghainese and learned Spanish for 3 years
 * I am a basketball and soccer fan and my favorite teams are Golden State Warriors and Manchester United
 * I spend a lot of my spare time watching movies and TV shows. My favourite TV show of all time is _Prison Break_
@@ -115,7 +115,7 @@ knitr::include_graphics("pictures/about_us/Jason.jpeg")
 knitr::include_graphics("pictures/about_us/Jason_car.jpeg")
 ```
 
-### Referral Links (**Not Financial Advice**)
+### Referral Links (**Not Financial Advice**) {-}
 
 > [How I obtained 850+ credit score at the age of 14 (I don't share this with many people)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -132,30 +132,30 @@ knitr::include_graphics("pictures/about_us/Jason_car.jpeg")
 *******
 
 
-### Contact me here
+### Contact me here {-}
 
 * Phone: 8143251314
 * Email: email_me_already@lalorna.com     (Yes, I can actually read your email here)
 * Discord: PARK0000#2587
 
 
-## Jeremy (Junli) Zhou
+## Jeremy (Junli) Zhou {-}
 
 ```{r, echo=FALSE, out.width="30%", fig.cap="me chilling on the beach"}
 knitr::include_graphics("pictures/about_us/Jeremy.jpeg")
 ```
 
-### Background
+### Background {-}
 I was born in Chongqing, a mountainous city in China that's also famous for cyperpunk-like buildings, numbing Szechuan cuisine and spicy hotpot (Yes I love my hometown!). I moved to Beijing with my parents since 10 and live there now. I came to study in the U.S. since 2013, spent 2 years of high school in Vermont, and stayed in New York for 6 years. 
 
 I went to New York University for undergrad and graduated with a major in Computer Science and minor in Business Studies. Through various experiences I had developed an interest in data analytics and decided to pivot to data science while developing my business sense.
 
 Now, I am a Master student at Ross School of Business, University of Michigan, studying Business Analytics. I hope to work as a Data Scientist or Data Analyst at an impact-driven tech company after this graduate program and become a Product Manager in 2-3 years.
 
-### Favorite Quote
+### Favorite Quote {-}
 > "It's always better to light up a candle than curse the darkness." Confucius
 
-### Hobbies
+### Hobbies {-}
 * Weight training
 * Basketball
 * Running
@@ -167,7 +167,7 @@ Now, I am a Master student at Ross School of Business, University of Michigan, s
 * Snowboarding
 * Wine & Whiskey tasting
 
-### Fun Fact
+### Fun Fact {-}
 * Did sailing in high school
 * Was a part of a dragon dance team
 * Breakfast is my favorite meal of the day. Just can't live without eggs

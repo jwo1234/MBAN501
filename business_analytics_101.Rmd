@@ -1,4 +1,4 @@
-# Business Analyst 101
+# Business Analyst 101 {-}
 
 In this chapter we will cover the following content:
 
