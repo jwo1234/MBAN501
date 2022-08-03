@@ -115,19 +115,6 @@ knitr::include_graphics("pictures/about_us/Jason.jpeg")
 knitr::include_graphics("pictures/about_us/Jason_car.jpeg")
 ```
 
-### Referral Links (**Not Financial Advice**) {-}
-
-> [How I obtained 850+ credit score at the age of 14 (I don't share this with many people)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[Discover IT -- Best Beginner Credit Card and we can both get $100!!!](https://refer.discover.com/s/XIAODI7)
-
-[Amex Blue Cash Perferred -- Great Cashback card with 3% on gas and 6% on grocery shopping.  We can both earn $175!!!](https://americanexpress.com/en-us/referral/XIAODPhiSr?XLINK=MYCP)
-
-[Amex Platinum Card -- Your Ultimate Travel Card that gives you free access to airport lounges across the globe. Earn 150k Points with me!!!](https://americanexpress.com/en-us/referral/XIAODPlxv9?XLINK=MYCP)
-
-[Chase Saphire Reserved Card -- Alternative Travel Card with 3x Points on Dinning. Earn 60K Points instantly](https://www.referyourchasecard.com/6f/Q857WY1O6N)
-
-[Robinhood -- Invest in stock market with me and earn free stock](https://join.robinhood.com/xiaodip)
 
 *******
 
