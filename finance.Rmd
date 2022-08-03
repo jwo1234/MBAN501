@@ -8,22 +8,24 @@ In this chapter we will cover the following content:
  - what is the differnece between one's job at an investment bank, private equity, venture capital, commerical bank, etc.
  - how does they work in teams
  
-Summary
+ 
+## Summary
+
 ~50-70 hours per week
 
 Financial analysts create financial plans for companies/clients, data oriented projections, and analytical reports for companies to use when making financial decisions. Financial analysts work for both public and private companies, along with individuals managing portfolios. They weigh micro and macroeconomic factors, and company values to make industry wide predictions. This profession is typically associated with working long hours receiving data, updating research, and adjusting models.
 
-Education
+## Education
 
 Bachelor’s degree in mathematics/finance/economics/business related field. Moving up to the senior level is possible with various certifications including Chartered Financial Analyst (CFA) certification, and earning an MBA. 
 
-CFA Certification - a series of exams to demonstrate competence - including advanced knowledge in accounting, economics, ethics, portfolio management, and security analysis.
+* CFA Certification - a series of exams to demonstrate competence - including advanced knowledge in accounting, economics, ethics, portfolio management, and security analysis.
 
-Skill Sets
+## Skill Sets
 
 High level analysts require skills/knowledge of statistics, finance, economics, and accounting. In order to be successful, financial analysts must be avid problem solvers, critical thinkers, and be able to quickly implement creative solutions. It is important to remain educated about market trends  and news cycles. Communication skills are a must.
 
-Salary
+## Salary
 
 Junior Analyst: $60-110K
 Senior Analyst (3+ years):  $110K-140K
