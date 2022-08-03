@@ -3,7 +3,59 @@
 In this chapter we will cover the following content:
 
 - what does business analysts do in Tech industry
-- what skillsets are required and preferred
+- what skill-sets are required and preferred
 - what is a day-to-day like for a business analyst in Tech
-- what is the differnece between business analyst, data analyst, data scientist, and machine learning engineer
+- what is the difference between business analyst, data analyst, data scientist, and machine learning engineer
 - how does they work in teams (with engineers and scientists, with stakeholders, with product managers, etc.)
+
+## Summary {-}
+
+## Education {-}
+
+## Skill Sets {-}
+
+**Hard Skills:**
+
+* SQL (basic query, join methods, aggregate functions, window functions) for ETL & data mining
+
+* Python (basic Python data structures, list and string manipulation)
+
+* Excel (how in-depth?)
+
+* AB Testing (Basic stats knowledge, hypothesis testing)
+
+* Preparing and executing presentation slides on business level data
+
+**Soft Skills:**
+
+* design business metrics
+
+* Problem solving
+
+* Communication 
+
+## Salary and Working Hours {-}
+
+**Industry Average Working Hours: 8-10 hrs**
+
+**Industry Entry Level Average Salary: $97,112/yr**
+
+* Base: $70,921/yr
+
+* Bonus: $26,191/yr
+
+- Tier 0
+
+
+
+- Tier 1
+
+
+
+- Tier 2
+
+
+
+- Tier 3
+
+
