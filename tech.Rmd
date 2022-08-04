@@ -39,28 +39,39 @@ A business analyst (BA) in a tech company utilizes data analytics, business sens
 
 * Communication skills
 
-## Salary and Working Hours {-}
-
-**Industry Average Working Hours: 8-10 hrs**
+## Salary {-}
 
 **Industry Entry Level Average Salary: $97,112/yr**
 
-* Base: $70,921/yr
+* Average Base: $70,921/yr
 
-* Bonus: $26,191/yr
+* Average Bonus: $26,191/yr
 
-- Tier 0
+### Tier 0 Tech Companies {-}
+```{r, echo=FALSE}
+tier0 = read.csv("csv/tech_tier0.csv")
+knitr::kable(tier0, "pipe", col.names=c("Company", "Avg Annual Compensation", "Avg Annual Base", "Avg Annual Bonus"))
+```
+
+### Tier 1 Tech Companies {-}
+```{r, echo=FALSE}
+tier1 = read.csv("csv/tech_tier1.csv")
+knitr::kable(tier1, "pipe", col.names=c("Company", "Avg Annual Compensation", "Avg Annual Base", "Avg Annual Bonus"))
+```
 
 
+### Tier 2 Tech Companies {-}
+```{r, echo=FALSE}
+tier2 = read.csv("csv/tech_tier2.csv")
+knitr::kable(tier2, "pipe", col.names=c("Company", "Avg Annual Compensation", "Avg Annual Base", "Avg Annual Bonus"))
+```
 
-- Tier 1
+### Tier 3 Tech Companies {-}
+```{r, echo=FALSE}
+tier3 = read.csv("csv/tech_tier3.csv")
+knitr::kable(tier3, "pipe", col.names=c("Company", "Avg Annual Compensation", "Avg Annual Base", "Avg Annual Bonus"))
+```
 
-
-
-- Tier 2
-
-
-
-- Tier 3
-
+## Work-life Balance {-}
+**Industry Average Working Hours: 8-10 hrs**
 
