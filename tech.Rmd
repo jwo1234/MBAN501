@@ -10,10 +10,12 @@ In this chapter we will cover the following content:
 
 
 ## Summary {-}
+
 A business analyst (BA) in a tech company utilizes data analytics, business sense, and problem solving skills to drive key business decisions. One’s responsibilities typically include defining metrics, developing reports on internal/external data, performing ad-hoc data analytics, and designing dashboards. Both technical and soft skills are important for a business analyst in tech. An analyst often needs to work with cross-functional teams, communicate with customers and stakeholders, give presentations on data insights, and collaborate with the engineers and researchers. It’s also important to note that a data analyst is often synonymous with a business analyst in certain companies, and many analyst positions in tech share the same responsibility as a business analyst but are given different, often more specific, titles for the specific areas they focus on.
 
 
 ## Education & Background {-}
+
 * Bachelor's degree in Business, Engineering or a related field is required.
 
 * Normally requires 2+ years of relevant experience with data analytics in business context and statistical analysis
@@ -44,7 +46,7 @@ A business analyst (BA) in a tech company utilizes data analytics, business sens
 
 ## Salary {-}
 
-**Industry Entry Level Average Salary: $97,112/yr**
+Industry Entry Level Average Salary: $97,112/yr
 
 * Average Base: $70,921/yr
 
@@ -76,5 +78,6 @@ knitr::kable(tier3, "pipe", col.names=c("Company", "Avg Annual Compensation", "A
 
 
 ## Work-life Balance {-}
-**Industry Average Working Hours: 8-10 hrs**
+
+Industry Average Working Hours: 8-10 hrs
 
