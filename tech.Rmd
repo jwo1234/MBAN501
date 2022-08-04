@@ -8,8 +8,10 @@ In this chapter we will cover the following content:
 - what is the difference between business analyst, data analyst, data scientist, and machine learning engineer
 - how does they work in teams (with engineers and scientists, with stakeholders, with product managers, etc.)
 
+
 ## Summary {-}
 A business analyst (BA) in a tech company utilizes data analytics, business sense, and problem solving skills to drive key business decisions. One’s responsibilities typically include defining metrics, developing reports on internal/external data, performing ad-hoc data analytics, and designing dashboards. Both technical and soft skills are important for a business analyst in tech. An analyst often needs to work with cross-functional teams, communicate with customers and stakeholders, give presentations on data insights, and collaborate with the engineers and researchers. It’s also important to note that a data analyst is often synonymous with a business analyst in certain companies, and many analyst positions in tech share the same responsibility as a business analyst but are given different, often more specific, titles for the specific areas they focus on.
+
 
 ## Education & Background {-}
 * Bachelor's degree in Business, Engineering or a related field is required.
@@ -39,6 +41,7 @@ A business analyst (BA) in a tech company utilizes data analytics, business sens
 
 * Communication skills
 
+
 ## Salary {-}
 
 **Industry Entry Level Average Salary: $97,112/yr**
@@ -59,7 +62,6 @@ tier1 = read.csv("csv/tech_tier1.csv")
 knitr::kable(tier1, "pipe", col.names=c("Company", "Avg Annual Compensation", "Avg Annual Base", "Avg Annual Bonus"))
 ```
 
-
 ### Tier 2 Tech Companies {-}
 ```{r, echo=FALSE}
 tier2 = read.csv("csv/tech_tier2.csv")
@@ -71,6 +73,7 @@ knitr::kable(tier2, "pipe", col.names=c("Company", "Avg Annual Compensation", "A
 tier3 = read.csv("csv/tech_tier3.csv")
 knitr::kable(tier3, "pipe", col.names=c("Company", "Avg Annual Compensation", "Avg Annual Base", "Avg Annual Bonus"))
 ```
+
 
 ## Work-life Balance {-}
 **Industry Average Working Hours: 8-10 hrs**
