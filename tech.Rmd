@@ -9,6 +9,7 @@ In this chapter we will cover the following content:
 - how does they work in teams (with engineers and scientists, with stakeholders, with product managers, etc.)
 
 ## Summary {-}
+A business analyst (BA) in a tech company utilizes data analytics, business sense, and problem solving skills to drive key business decisions. One’s responsibilities typically include defining metrics, developing reports on internal/external data, performing ad-hoc data analytics, and designing dashboards. Both technical and soft skills are important for a business analyst in tech. An analyst often needs to work with cross-functional teams, communicate with customers and stakeholders, give presentations on data insights, and collaborate with the engineers and researchers. It’s also important to note that a data analyst is often synonymous with a business analyst in certain companies, and many analyst positions in tech share the same responsibility as a business analyst but are given different, often more specific, titles for the specific areas they focus on.
 
 ## Education & Background {-}
 * Bachelor's degree in Business, Engineering or a related field is required.
@@ -22,9 +23,9 @@ In this chapter we will cover the following content:
 
 * SQL (basic query, join methods, aggregate functions, window functions) for ETL & data mining
 
-* Python (basic Python data structures, list and string manipulation)
+* Advanced Excel (Pivot Tables, Power Pivots, VBA, Power Query, etc.)
 
-* Excel (how in-depth?)
+* Python (basic Python data structures, list and string manipulation)
 
 * AB Testing (Basic stats knowledge, hypothesis testing)
 
@@ -32,11 +33,11 @@ In this chapter we will cover the following content:
 
 **Soft Skills:**
 
-* design business metrics
+* Designing business metrics
 
-* Problem solving
+* Problem solving skills
 
-* Communication 
+* Communication skills
 
 ## Salary and Working Hours {-}
 
