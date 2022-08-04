@@ -2,7 +2,7 @@
 
 In this chapter we will cover the following content:
 
-- what does business analysts do in Tech industry
+- what does the role of business analyst entail in the tech industry
 - what skill-sets are required and preferred
 - what is a day-to-day like for a business analyst in Tech
 - what is the difference between business analyst, data analyst, data scientist, and machine learning engineer
@@ -10,7 +10,11 @@ In this chapter we will cover the following content:
 
 ## Summary {-}
 
-## Education {-}
+## Education & Background {-}
+* Bachelor's degree in Business, Engineering or a related field is required.
+
+* Normally requires 2+ years of relevant experience with data analytics in business context and statistical analysis
+
 
 ## Skill Sets {-}
 

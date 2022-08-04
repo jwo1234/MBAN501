@@ -11,8 +11,6 @@ In this chapter we will cover the following content:
  
 ## Summary {-}
 
-~50-70 hours per week
-
 Financial analysts create financial plans for companies/clients, data oriented projections, and analytical reports for companies to use when making financial decisions. Financial analysts work for both public and private companies, along with individuals managing portfolios. They weigh micro and macroeconomic factors, and company values to make industry wide predictions. This profession is typically associated with working long hours receiving data, updating research, and adjusting models.
 
 ## Education {-}
@@ -31,6 +29,10 @@ Salary varies by region and cost of living in a particular location. Fully remot
 
 * Junior Analyst: $60-110K
 
-* Senior Analyst (3+ years):  $110K-140K
+* Senior Analyst (3+ years):  $110-140K
 
 * Median Pay: $86,660
+
+## Work-life Balance {-}
+
+~50-70 hours per week
