@@ -7,7 +7,7 @@ In this chapter we will cover the following content:
 - what is a day-to-day like for a business analyst in Consulting
 - how does they work in teams (with other consultants, with clients, etc.)
 
-## Quick Summary {-}
+## Summary {-}
 
 A business analyst consultant works with clients to help them understand and document business requirements. These requirements can be part of an IT-related project or a process improvement initiative. As a business analyst, or BA, you typically work for a consulting firm that charges clients an hourly rate for your time based on a negotiated contract. A BA travels to customer sites to meet directly with clients and view business operations firsthand. As a business analyst, you are expected to conduct surveys, perform statistical analyses and tests, make IT recommendations, suggest changes to certain processes, and create new systems.
 
