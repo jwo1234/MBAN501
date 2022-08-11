@@ -34,26 +34,29 @@ knitr::include_graphics("pictures/about_us/Mattie.jpeg")
 ```
 
 ## Jenny (Yajie) Xu {-}
-### Basic Information {-}
-**First Name**: Yajie
 
-**Last Name**: Xu
-
-**Preferred Name**: Jenny
-
-**Age**: 22
-
-**Birthday**: 04/03/2000
-
-**School**: Ross School of Business
-
-**Field of Study**: MBAn
-
-**Favorite Coding Language**: R
-
-```{r pic-Jenny, echo=FALSE, out.width = '30%'}
-knitr::include_graphics("pictures/about_us/Jenny.jpeg")
+```{r pressure, echo=FALSE, out.width = '25%'}
+knitr::include_graphics("2.jpg")
 ```
+### My Background {-}
+
+Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, China, the city of Tsingdao Beer. Recently, I just graduated from Bentley University majoring Actuarial Science. I recently began my masters at the Ross School of Business studying Business Analytics. I hope to utilize my data and coding skills in a more practical business setting. 
+
+### Professional Experience
+
+[Linkedin](https://www.linkedin.com/in/yajie-xu-51b0a017b/)
+
+- Actuarial science auditor internship at China Life Insurance Company
+
+- Data analytics internship at Hisense Group
+
+### Fun Facts / Hobbies
+
+* I started to learn dance and piano at the age of 4.
+
+* My go-to TV show is Friends.
+
+* I love cooking.
 
 
 ## John Oraa {-}
