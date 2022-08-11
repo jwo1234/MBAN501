@@ -1,9 +1,9 @@
 fig:pic-Mattie
 fig:pic-John
 fig:pic-Jason
-fig:pic-Jason-car
 fig:unnamed-chunk-1
 about-us
 business-analyst-in-consulting
 business-analyst-in-tech
 business-analyst-in-finance
+teamwork-process
