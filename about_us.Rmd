@@ -47,19 +47,13 @@ knitr::include_graphics("pictures/about_us/Jenny.jpeg")
 Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, China, the city of Tsingdao Beer. Recently, I just graduated from Bentley University majoring Actuarial Science. I recently began my masters at the Ross School of Business studying Business Analytics. I hope to utilize my data and coding skills in a more practical business setting. 
 
 ### Professional Experience {-}
-
 [Linkedin](https://www.linkedin.com/in/yajie-xu-51b0a017b/)
-
 - Actuarial science auditor internship at China Life Insurance Company
-
 - Data analytics internship at Hisense Group
 
 ### Fun Facts / Hobbies {-}
-
 * I started to learn dance and piano at the age of 4.
-
 * My go-to TV show is Friends.
-
 * I love cooking.
 
 *****
@@ -108,11 +102,8 @@ Hey everyone, my name is Xiaodi Pan and people usually call me Jason.
 I was born and raised in Shanghai, China and I came to the U.S in 2016 for high school. I graduated from Penn State University in Spring 2022 with a major in Supply Chain Management and a minor in Information System Management. I am currently a Master's of Business Analytic student at University of Michigan Ross School of Business.
   
 ### Professional Experience {-}
-
 [Linkedin](https://www.linkedin.com/in/xiaodi-jason-pan/)
-
 - Head Supply Chain Intern at TheDealBuyer
-
 - Co-owner of Lorna Kicks
 
 ### Fun Facts / Hobbies {-}
