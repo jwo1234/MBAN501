@@ -3,7 +3,8 @@ fig:pic-John
 fig:pic-Jason
 fig:pic-Jason-car
 fig:unnamed-chunk-1
-tier-0-tech-companies
-tier-1-tech-companies
-tier-2-tech-companies
-tier-3-tech-companies
+about-us
+team-3-we-also-hate-python-aka-mjjjj
+madison-hartle
+general-information
+business-analyst-in-consulting

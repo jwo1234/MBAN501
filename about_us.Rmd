@@ -1,16 +1,16 @@
-# About Us {-}
+# About Us
 
-## Team 3: We Also Hate Python (aka MJJJJ) {-}
+## Team 3: We Also Hate Python (aka MJJJJ)
 
 ```{r pic-team, echo=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/about_us/team_pic.jpeg")
 ```
 
-## Madison Hartle {-}
+## Madison Hartle
 
 I am a recent graduate from the University of Michigan where I earned a bachelor's degree in Actuarial Mathematics. Currently, I am pursuing a masters degree in Business Analytics.
 
-### General Information {-}
+### General Information
 
 Here is a list of things that I enjoy:
 

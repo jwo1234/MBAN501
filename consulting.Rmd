@@ -1,4 +1,4 @@
-# Business Analyst in Consulting {-}
+# Business Analyst in Consulting
 
 In this chapter we will cover the following content:
 
@@ -11,7 +11,9 @@ In this chapter we will cover the following content:
 
 A business analyst consultant works with clients to help them understand and document business requirements. These requirements can be part of an IT-related project or a process improvement initiative. As a business analyst, or BA, you typically work for a consulting firm that charges clients an hourly rate for your time based on a negotiated contract. A BA travels to customer sites to meet directly with clients and view business operations firsthand. As a business analyst, you are expected to conduct surveys, perform statistical analyses and tests, make IT recommendations, suggest changes to certain processes, and create new systems.
 
-## Skills {-}
+## Education {-}
+
+## Skill Sets {-}
 Skills take on a more holistic approach as you are expected to be with customers and work through their problems with them and then report back to them.
 
  * Problem-solving
@@ -36,7 +38,7 @@ You can expect 70-80 hour weeks. The very typical cycle is Mon-Thurs with client
 There is no day to day. Every day is different. You are working around the clock to finish your deliverables.
 
 
-## Exit Opportunities {-}
+## Career Advancement and Exit Opportunities {-}
 Skills take on a more holistic approach as you are expected to be with customers and work through their problems with them and then report back to them.
 
  * MBA

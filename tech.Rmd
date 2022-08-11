@@ -77,7 +77,9 @@ knitr::kable(tier3, "pipe", col.names=c("Company", "Avg Annual Compensation", "A
 ```
 
 
-## Work life Balance {-}
+## Work Life Balance {-}
 
 Industry Average Working Hours: 8-10 hrs
+
+## Career Advancement and Exit Opportunities {-}
 
