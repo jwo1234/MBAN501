@@ -34,29 +34,35 @@ Here is a list of things that I enjoy:
 ```{r pic-Mattie, echo=FALSE, out.width="50%", fig.cap="A break from skiing."}
 knitr::include_graphics("pictures/about_us/Mattie.jpeg")
 ```
+*****
 
 ## Jenny (Yajie) Xu {-}
-### Basic Information {-}
-**First Name**: Yajie
 
-**Last Name**: Xu
-
-**Preferred Name**: Jenny
-
-**Age**: 22
-
-**Birthday**: 04/03/2000
-
-**School**: Ross School of Business
-
-**Field of Study**: MBAn
-
-**Favorite Coding Language**: R
-
-```{r pic-Jenny, echo=FALSE, out.width = '30%'}
-knitr::include_graphics("pictures/about_us/Jenny.jpeg")
+```{r pressure, echo=FALSE, out.width = '25%'}
+knitr::include_graphics("2.jpg")
 ```
 
+### My Background {-}
+
+Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, China, the city of Tsingdao Beer. Recently, I just graduated from Bentley University majoring Actuarial Science. I recently began my masters at the Ross School of Business studying Business Analytics. I hope to utilize my data and coding skills in a more practical business setting. 
+
+### Professional Experience {-}
+
+[Linkedin](https://www.linkedin.com/in/yajie-xu-51b0a017b/)
+
+- Actuarial science auditor internship at China Life Insurance Company
+
+- Data analytics internship at Hisense Group
+
+### Fun Facts / Hobbies {-}
+
+* I started to learn dance and piano at the age of 4.
+
+* My go-to TV show is Friends.
+
+* I love cooking.
+
+*****
 
 ## John Oraa {-}
 
@@ -88,45 +94,33 @@ In my undergrad I was apart of a couple different design teams focusing on engin
 
 - Commercial Sale/Business Analytics Experience 
 
+*****
 
 ## Jason (Xiaodi) Pan {-}
-### Background {-}
 
-Hey everyone, my name is Xiaodi Pan and people usually call me Jason.
-
-I was born and raised in Shanghai, China and I came to the U.S in 2016 for high school. I graduated from Penn State University in Spring 2022 with a major in Supply Chain Management and a minor in Information System Management. I am currently a Master's of Business Analytic student at University of Michigan Ross School of Business.
-  
-
-[Learn more about me professionally through Linkedin!](https://www.linkedin.com/in/xiaodi-jason-pan/)
-
-I am actively looking for job opportunities in consulting, finance, supply chain and all other related areas in business. I'd love to own a consulting firm that focuses on innovative supply chain solutions for companies in the industry one day.
-
-```{r pic-Jason, echo=FALSE, out.width="50%", fig.cap="Just me and my friend reflecting on life and Yes I was the one wearing shorts"}
+```{r pic-Jason, echo=FALSE, out.width="25%", fig.cap="Just me and my friend reflecting on life and Yes I was the one wearing shorts"}
 knitr::include_graphics("pictures/about_us/Jason.jpeg")
 ```
 
-### Fun Facts!!! {-}
+### My Background {-}
+
+Hey everyone, my name is Xiaodi Pan and people usually call me Jason.
+I was born and raised in Shanghai, China and I came to the U.S in 2016 for high school. I graduated from Penn State University in Spring 2022 with a major in Supply Chain Management and a minor in Information System Management. I am currently a Master's of Business Analytic student at University of Michigan Ross School of Business.
+  
+### Professional Experience {-}
+
+[Linkedin](https://www.linkedin.com/in/xiaodi-jason-pan/)
+
+- Head Supply Chain Intern at TheDealBuyer
+
+- Co-owner of Lorna Kicks
+
+### Fun Facts / Hobbies {-}
 * I speak fluent Shanghainese and learned Spanish for 3 years
-* I am a basketball and soccer fan and my favorite teams are Golden State Warriors and Manchester United
-* I spend a lot of my spare time watching movies and TV shows. My favourite TV show of all time is _Prison Break_
 * I love racing. I drive a 6 Speed 2021 Booster Blue Honda Civic Type R and I also like to sim-race when I'm free
-* Formula 1 is one of my favorite sports and I root for Daniel Riccardo and Charles Leclerc
 * I co-own a company called _Lorna Kicks_ and we source fashion sneakers, street wears and electronics for clients
 
-```{r pic-Jason-car, echo=FALSE, out.width="50%", fig.cap="My baby :) "}
-knitr::include_graphics("pictures/about_us/Jason_car.jpeg")
-```
-
-
-*******
-
-
-### Contact me here {-}
-
-* Phone: 8143251314
-* Email: email_me_already@lalorna.com     (Yes, I can actually read your email here)
-* Discord: PARK0000#2587
-
+*****
 
 ## Jeremy (Junli) Zhou {-}
 
