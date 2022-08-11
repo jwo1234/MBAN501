@@ -10,6 +10,7 @@ knitr::include_graphics("pictures/about_us/team_pic.jpeg")
 
 I am a recent graduate from the University of Michigan where I earned a bachelor's degree in Actuarial Mathematics. Currently, I am pursuing a masters degree in Business Analytics.
 
+
 ### General Information {-}
 
 Here is a list of things that I enjoy:
@@ -20,6 +21,7 @@ Here is a list of things that I enjoy:
 - Reading novels
 - Writing poetry
 - Eating ice cream
+
 
 ### Some things you probably didn't know {-}
 
