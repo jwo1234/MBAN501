@@ -39,7 +39,7 @@ knitr::include_graphics("pictures/about_us/Mattie.jpeg")
 ## Jenny (Yajie) Xu {-}
 
 ```{r pressure, echo=FALSE, out.width = '25%'}
-knitr::include_graphics("2.jpg")
+knitr::include_graphics("pictures/about_us/Jenny.jpeg")
 ```
 
 ### My Background {-}
