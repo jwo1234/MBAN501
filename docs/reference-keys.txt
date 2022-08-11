@@ -8,3 +8,5 @@ team-3-we-also-hate-python-aka-mjjjj
 madison-hartle
 general-information
 business-analyst-in-consulting
+business-analyst-in-tech
+business-analyst-in-finance
