@@ -34,6 +34,7 @@ Here is a list of things that I enjoy:
 ```{r pic-Mattie, echo=FALSE, out.width="50%", fig.cap="A break from skiing."}
 knitr::include_graphics("pictures/about_us/Mattie.jpeg")
 ```
+*****
 
 ## Jenny (Yajie) Xu {-}
 
@@ -61,6 +62,7 @@ Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, Chin
 
 * I love cooking.
 
+*****
 
 ## John Oraa {-}
 
@@ -92,6 +94,7 @@ In my undergrad I was apart of a couple different design teams focusing on engin
 
 - Commercial Sale/Business Analytics Experience 
 
+*****
 
 ## Jason (Xiaodi) Pan {-}
 
@@ -117,6 +120,7 @@ I was born and raised in Shanghai, China and I came to the U.S in 2016 for high 
 * I love racing. I drive a 6 Speed 2021 Booster Blue Honda Civic Type R and I also like to sim-race when I'm free
 * I co-own a company called _Lorna Kicks_ and we source fashion sneakers, street wears and electronics for clients
 
+*****
 
 ## Jeremy (Junli) Zhou {-}
 
