@@ -48,6 +48,7 @@ Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, Chin
 
 ### Professional Experience {-}
 [Linkedin](https://www.linkedin.com/in/yajie-xu-51b0a017b/)
+
 * Actuarial science auditor internship at China Life Insurance Company
 * Data analytics internship at Hisense Group
 
@@ -103,6 +104,7 @@ I was born and raised in Shanghai, China and I came to the U.S in 2016 for high 
   
 ### Professional Experience {-}
 [Linkedin](https://www.linkedin.com/in/xiaodi-jason-pan/)
+
 * Head Supply Chain Intern at TheDealBuyer
 * Co-owner of Lorna Kicks
 
