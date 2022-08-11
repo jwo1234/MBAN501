@@ -1,6 +1,0 @@
-# Business Analyst 101 {-}
-
-In this chapter we will cover the following content:
-
-- what is business analytics
-- why does it matter for you to know the difference if you are recruiting for a business analyst position
