@@ -65,29 +65,32 @@ Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, Chin
 knitr::include_graphics("pictures/about_us/John.jpeg")
 ```
 
-### My Life {-}
+## My Background
 
-Hello! My name is John. I am a 22 year old from a small town in Michigan called Fenton. Recently, I just graduated from the University of Michigan with my B.S.E in Mechanical Engineering. I recently began my masters at the Ross School of Business studying Business Analytics. 
+Hello! My name is John. I am a 22 year old from a small town in Michigan called Fenton. I just graduated from the University of Michigan with my B.S.E in Mechanical Engineering. I recently began my masters at the Ross School of Business studying Business Analytics. 
 
 My goal is to combine my technical undergraduate skills and master degree to focus my efforts on improving the business of healthcare. 
 
-### My Accomlishments {-}
-
-#### Project Teams {-}
-
-In my undergrad I was apart of a couple different design teams focusing on engineering and consulting our customer
-
- - Medlaunch which focused on developing a need based issue in our community through consulting with our community partner
- - STARX which is the exoskeleton project engineering team developing an exoskeleton to be used in assisting Parkinsons patients
 
 
-#### Professional Experience {-}
+## Professional Experience
+[Linkedin](https://www.linkedin.com/in/johnoraa/)
 
 - Research: I have conducted research in human walking gait identification, parkinson's patients foot fall detection, mesh morphing.
 
 - Engineering Design Internship
 
 - Commercial Sale/Business Analytics Experience 
+
+- Medlaunch Project Design Team: Design lead focused on developing a need based issue in our community through consulting with our community partner
+
+
+## Fun Facts/Hobbies
+- I am half Spanish
+- I want to learn how to sail
+
+My Hobbies include: Water skiing, hiking, playing chess, running
+
 
 *****
 
