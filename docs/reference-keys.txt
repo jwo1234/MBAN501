@@ -7,3 +7,4 @@ business-analyst-in-consulting
 business-analyst-in-tech
 business-analyst-in-finance
 teamwork-process
+consulting
