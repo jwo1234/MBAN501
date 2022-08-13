@@ -17,8 +17,8 @@ The purpose of this project is to gain valuable insights into the specific respo
 * A presentation slides
 
 ## Interview Leads {-}
-### Consulting
-  * McKinsey 
+### Consulting {-}
+  * McKinsey
   * ZS Solutions
   * EY (tech consulting)
 
@@ -31,5 +31,4 @@ The purpose of this project is to gain valuable insights into the specific respo
   * Google
   * Amazon
   * Microsoft
-  
   
