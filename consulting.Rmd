@@ -7,8 +7,6 @@ A business analyst consultant works with clients to help them understand and doc
 ## Education and Background {-}
 Consulting is a wide industry with many different categories of consulting. The majority of  business analyst consultants have a bachelor's degree in business, engineering, or economics  with medium or high levels of data analysis or a coding background. As a result, some computer science students who are not looking for a programming job have also become interested in this industry in recent years. 
 
-
-
 ## Job Responsibilities {-}
 Tasks are usually different for every project. However, most cases require you to evaluate your client’s business model or assess their potential risk in the future. Each case can range from a few weeks to multiple months of time to work while some may even take 6-10 months. However, you are expected to follow a certain framework given by either your client or your manager for your evaluation. You are expected to present clients with visualization of your evaluation along with your risk assessment and prediction for longevity in the future. Your final output will be professional yet easy to understand because your core value is the connection between hard-core data/technology and the normal people in the business world.
 
@@ -18,21 +16,33 @@ Skills take on a more holistic approach as you are expected to be with customers
  Soft Skills: 
 
  * Problem-solving
+ 
  * Make the Most of Presentations
+ 
  * Creative thinking
+ 
  * Be Flexible
+ 
  * Thinking conceptually and practically
+ 
  * Communicating clearly and empathetically
+ 
  * Collaboration with all job levels
+ 
  * Organization and time management
+ 
  * Curiosity
+ 
  * Credibility
+ 
  * “Consulting Fit” = Strong Academics with good experience and being apart of high achieving teams
+ 
  * Attention to detail
  
  Hard Skills:
  
  * Excel, Microsoft Outlook/Team, PowerPoint
+
  * ABAP, Tableau (If you are on technology track)
 
 ## Team Structure {-}
@@ -59,10 +69,14 @@ Performance is evaluated at the end of the year in December. Entry level analyst
 
 ## Recruiting Information {-}
 Recruiting for consulting is infamous for the difficult case preps. This requires learning the structure, developing a framework, asking qualifying questions and then answering technical and mental math problems. 
-	Apply, 
-	1st round Interview
-	2nd Round Interview
-	3rd Round Interview
+
+* Apply
+
+* 1st round Interview
+
+* 2nd Round Interview
+
+*	3rd Round Interview
 
 ## WWYD to prepare for this role (before applying) {-}
 During the recruiting process, many may tell you it’s easy to switch tracks inside the firm. However, it wasn’t true for most companies. To be able to switch to another type of consulting within the same company, one needs to build connections with other case managers because they need to invite you to their team. You should also be aware that your working schedule is rarely 9-5 therefore make sure to prioritize your work life balance before you apply. 
@@ -82,7 +96,9 @@ Consulting firms strive to keep up with market trends, and many firms have a ten
 
 ## Salary {-}
 ### Consulting Companies {-}
-Please note these are estimated circa 2022
+
+Note: salary data below are estimated circa 2022
+
 ```{r, echo=FALSE}
 tier0 = read.csv("csv/ConsultingSheet.csv")
 knitr::kable(tier0, "pipe", col.names=c("Company", "Base Salary", "Maximum Performance Bonus"))

@@ -81,7 +81,9 @@ When you start the recruiting process, it is important to conduct some research 
 
 The sites below are commonly-used resources for finding job posting and sending your application:
 
-* Company’s Job portal (example: [Amazon job postings](https://www.amazon.jobs/en/))
+* Company’s Job portal 
+
+  + example: [Amazon job postings](https://www.amazon.jobs/en/)
 
 * LinkedIn
 
@@ -89,7 +91,9 @@ The sites below are commonly-used resources for finding job posting and sending 
 
 * Indeed
 
-* Ross Recruit
+* Ross Recruit 
+
+  + for students at Ross School of Business
 
 * Handshake
 
@@ -159,7 +163,7 @@ business analytics, such as SQL, Python, Tableau, Excel, etc
 
 ### Resume {-}
 
-* Resume builder for U-M Students on iMPact: [Build My Resume](https://www.bus.umich.edu/myimpact/Home.aspx)
+* Resume builder for U-M Students on iMpact: [Build My Resume](https://www.bus.umich.edu/myimpact/Home.aspx)
 
 * School and major
 
@@ -197,8 +201,12 @@ business analytics, such as SQL, Python, Tableau, Excel, etc
 
 ## Salary {-}
 
+Note: salary data below are collected circa 2022 from [Glassdoor](https://www.glassdoor.com/Salaries/index.htm) and [Comparably](https://www.comparably.com/)
+
 Industry Entry Level Average Salary: $97,112/yr
+
 * Average Base: $70,921/yr
+
 * Average Bonus: $26,191/yr
 
 ### Tier 0 Tech Companies {-}
@@ -227,4 +235,18 @@ knitr::kable(tier3, "pipe", col.names=c("Company", "Avg Annual Compensation", "A
 
 
 ## Career Advancement and Exit Opportunities {-}
+
+Potential Career Advancement
+
+* Senior Business Analyst
+
+* Product Manager
+
+* Business Intelligence Engineer
+
+* Data Scientist
+
+## Exit Opportunities {-}
+
+* MBA
 
