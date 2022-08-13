@@ -2,9 +2,9 @@ fig:pic-Mattie
 fig:pic-John
 fig:pic-Jason
 fig:unnamed-chunk-1
+consulting
 about-us
 business-analyst-in-consulting
 business-analyst-in-tech
 business-analyst-in-finance
 teamwork-process
-consulting
