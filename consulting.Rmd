@@ -81,6 +81,12 @@ However, despite its outward appearance of friendliness, there's always lots of 
 Consulting firms strive to keep up with market trends, and many firms have a tendency to establish relevant departments as quickly as feasible. Few companies have lately introduced a department dedicated to digital emerging technologies with an emphasis on block chain, NFT, and crypto currency in order to better serve their clients' needs in the digital world.
 
 ## Salary {-}
+### Consulting Companies {-}
+Please note these are estimated circa 2022
+```{r, echo=FALSE}
+tier0 = read.csv("csv/ConsultingSheet.csv")
+knitr::kable(tier0, "pipe", col.names=c("Company", "Base Salary", "Maximum Performance Bonus"))
+```
 
 ## Career Advancement and Exit Opportunities {-}
 Similar to the majority of consulting positions, there are numerous prospects for career progression. In a few years, a large number of individuals would rise to Senior Consultant/Associate, Manager, Senior Manager, Team Leader, and ultimately Partner if they chose to advance vertically in the industry with managerial jobs. With the current industry trend favoring technology, big data, and computer programming consultants have new opportunities to enter these spaces especially those with a background in coding to take on roles such as data scientists or programming positions. In addition, many individuals who have worked for larger companies for a few years tend to switch to smaller companies in order to acquire greater control over the project in terms of duties, working hours, and salary.
