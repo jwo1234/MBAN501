@@ -6,7 +6,14 @@
 knitr::include_graphics("pictures/about_us/team_pic.jpeg")
 ```
 
+*****
+
 ## Madison Hartle {-}
+```{r pic-Mattie, echo=FALSE, out.width="30%", fig.cap="A break from skiing."}
+knitr::include_graphics("pictures/about_us/Mattie.jpeg")
+```
+
+### My Background {-}
 
 I am a recent graduate from the University of Michigan where I earned a bachelor's degree in Actuarial Mathematics. Currently, I am pursuing a masters degree in Business Analytics.
 
@@ -22,7 +29,6 @@ Here is a list of things that I enjoy:
 - Writing poetry
 - Eating ice cream
 
-
 ### Some things you probably didn't know {-}
 
 1. My birthday is February 7th, 2000
@@ -30,21 +36,17 @@ Here is a list of things that I enjoy:
 3. I'm a math major but I didn't learn how to long divide until I was in college
 4. The Mackinac Bridge is 500 feet high and 5 miles long
 
-
-```{r pic-Mattie, echo=FALSE, out.width="50%", fig.cap="A break from skiing."}
-knitr::include_graphics("pictures/about_us/Mattie.jpeg")
-```
 *****
 
 ## Jenny (Yajie) Xu {-}
 
-```{r pressure, echo=FALSE, out.width = '25%'}
+```{r pressure, echo=FALSE, out.width = '30%', fig.cap="Jenny (Yajie) Xu MBAn Class of 2023."}
 knitr::include_graphics("pictures/about_us/Jenny.jpeg")
 ```
 
 ### My Background {-}
 
-Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, China, the city of Tsingdao Beer. Recently, I just graduated from Bentley University majoring Actuarial Science. I recently began my masters at the Ross School of Business studying Business Analytics. I hope to utilize my data and coding skills in a more practical business setting. 
+Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, China, the city of Tsingdao Beer. Recently, I just graduated from Bentley University majoring Actuarial Science and minoring Data Technologies and Business Studies in Finance. I recently began my masters at the Ross School of Business studying Business Analytics. I hope to utilize my data and coding skills in a more practical business setting. 
 
 ### Professional Experience {-}
 [Linkedin](https://www.linkedin.com/in/yajie-xu-51b0a017b/)
@@ -61,11 +63,11 @@ Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, Chin
 
 ## John Oraa {-}
 
-```{r pic-John, echo=FALSE, out.width="80%", fig.cap="John Oraa MBAn Class of 2023."}
-knitr::include_graphics("pictures/about_us/John.jpeg")
+```{r pic-John, echo=FALSE, out.width="30%", fig.cap="John Oraa MBAn Class of 2023."}
+knitr::include_graphics("pictures/about_us/John.png")
 ```
 
-## My Background {-}
+### My Background {-}
 
 Hello! My name is John. I am a 22 year old from a small town in Michigan called Fenton. I just graduated from the University of Michigan with my B.S.E in Mechanical Engineering. I recently began my masters at the Ross School of Business studying Business Analytics. 
 
@@ -73,7 +75,7 @@ My goal is to combine my technical undergraduate skills and master degree to foc
 
 
 
-## Professional Experience {-}
+### Professional Experience {-}
 [Linkedin](https://www.linkedin.com/in/johnoraa/)
 
 - Research: I have conducted research in human walking gait identification, parkinson's patients foot fall detection, mesh morphing.
@@ -85,7 +87,7 @@ My goal is to combine my technical undergraduate skills and master degree to foc
 - Medlaunch Project Design Team: Design lead focused on developing a need based issue in our community through consulting with our community partner
 
 
-## Fun Facts/Hobbies {-}
+### Fun Facts/Hobbies {-}
 - I am half Spanish
 - I want to learn how to sail
 
@@ -96,7 +98,7 @@ My Hobbies include: Water skiing, hiking, playing chess, running
 
 ## Jason (Xiaodi) Pan {-}
 
-```{r pic-Jason, echo=FALSE, out.width="25%", fig.cap="Just me and my friend reflecting on life and Yes I was the one wearing shorts"}
+```{r pic-Jason, echo=FALSE, out.width="30%", fig.cap="Just me and my friend reflecting on life and Yes I was the one wearing shorts"}
 knitr::include_graphics("pictures/about_us/Jason.jpeg")
 ```
 
