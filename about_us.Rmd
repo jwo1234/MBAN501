@@ -98,7 +98,7 @@ My Hobbies include: Water skiing, hiking, playing chess, running
 
 ## Jason (Xiaodi) Pan {-}
 
-```{r pic-Jason, echo=FALSE, out.width="30%", fig.cap="Just me and my friend reflecting on life and Yes I was the one wearing shorts"}
+```{r pic-Jason, echo=FALSE, out.width="50%", fig.cap="Just me and my friend reflecting on life and Yes I was the one wearing shorts"}
 knitr::include_graphics("pictures/about_us/Jason.jpeg")
 ```
 
