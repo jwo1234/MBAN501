@@ -1,5 +1,21 @@
 # Teamwork Process
 
+## Interview Leads {-}
+### Consulting {-}
+  * McKinsey
+  * ZS Solutions
+  * EY (tech consulting)
+
+### Finance {-}
+  * Jackson National
+  * JP Morgan
+  * Goldman Sachs
+
+### Tech {-}
+  * Google
+  * Amazon
+  * Microsoft
+
 After reviewing the data from our group’s in class survey, we determined that we were struggling with team efficiency. To increase productivity, we’ve decided to set meeting agendas, assign work-to-be-done before each meeting, and strictly follow start and end times.
 
 Our group handles challenges and change by communicating and reaching out for help when needed. We divided work based on our individual strengths, and spent time learning and teaching RMarkdown/Git/GitHub to each other. More experienced members took initiative to make sure every member of  the group knew how to edit the document, pull, and push changes.

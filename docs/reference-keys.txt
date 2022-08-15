@@ -1,11 +1,11 @@
 fig:pic-Mattie
+fig:pressure
 fig:pic-John
 fig:pic-Jason
 fig:unnamed-chunk-1
-consulting
+introduction
 about-us
 business-analyst-in-consulting
 business-analyst-in-tech
 business-analyst-in-finance
 teamwork-process
-fig:pressure

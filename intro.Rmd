@@ -1,4 +1,4 @@
-# Introduction {-}
+# Introduction
 
 ## Introduction and Background {-}
 Too often, we find ourselves learning how to recruit and network to land jobs when in reality we do not know the full responsibilities a role entails. Since we are the first cohort of the MBAn program, all our peers and future MBAn students most likely consider some variation of business analytics role as their immediate career option. Our project aims to develop a broad framework to understand and navigate the Business Analyst role in different industries such as Consulting, Finance, and Tech, with an emphasis on how Business Analyst works in team settings. 
@@ -16,19 +16,4 @@ The purpose of this project is to gain valuable insights into the specific respo
 * A RMarkdown document about 20 pages long
 * A presentation slides
 
-## Interview Leads {-}
-### Consulting {-}
-  * McKinsey
-  * ZS Solutions
-  * EY (tech consulting)
-
-### Finance {-}
-  * Jackson National
-  * JP Morgan
-  * Goldman Sachs
-
-### Tech {-}
-  * Google
-  * Amazon
-  * Microsoft
   

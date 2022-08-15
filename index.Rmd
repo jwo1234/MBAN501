@@ -1,11 +1,13 @@
 ---
-title: "Business Analyst in Teams"
+title: "Business Analyst for Dummies"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 link-citations: yes
 description: "This is guide to the roles of a Business Analyst in 3 highly desired industries (consulting, tech, and finance) and the role of business analysts in different teams."
 ---
+
+# Preface {-}
 
 ```{r pic-preface, echo=FALSE}
 knitr::include_graphics("pictures/business_analytics_word_cloud.jpeg")
