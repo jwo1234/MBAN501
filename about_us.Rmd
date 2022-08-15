@@ -15,26 +15,31 @@ knitr::include_graphics("pictures/about_us/Mattie.jpeg")
 
 ### My Background {-}
 
-I am a recent graduate from the University of Michigan where I earned a bachelor's degree in Actuarial Mathematics. Currently, I am pursuing a masters degree in Business Analytics.
+I am a recent graduate from the University of Michigan where I earned a bachelor’s degree in Actuarial Mathematics. Currently, I am pursuing a masters degree in Business Analytics at Ross. I hope to utilize my statistical skills in the field of analytics to transform the way business decisions are made, specifically in the field of Finance.
 
 
-### General Information {-}
+### Professional Experience {-}
 
 Here is a list of things that I enjoy:
 
-- Long walks in the Arb
-- Traveling 
-- Spending time with friends and family
-- Reading novels
-- Writing poetry
-- Eating ice cream
+* Received University Honors Fall/Spring Term 2021
 
-### Some things you probably didn't know {-}
+* Worked in the University of Michigan Math Lab 2020-2022
 
-1. My birthday is February 7th, 2000
-2. I've been bungee jumping twice
-3. I'm a math major but I didn't learn how to long divide until I was in college
-4. The Mackinac Bridge is 500 feet high and 5 miles long
+* Earned Internship with New Mexico Mutual Summer 2020
+
+
+### Fun Facts / Hobbies {-}
+
+* Long walks in the Arb
+
+* Traveling
+
+* Spending time with friends and family
+
+* Writing poetry
+
+* Eating ice cream
 
 *****
 
