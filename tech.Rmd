@@ -196,8 +196,6 @@ business analytics, such as SQL, Python, Tableau, Excel, etc
   + For tech: dress code is not strict, casual plain color shirts are good enough
   
   + Consult career coach for what to include in your LinkedIn profile
-  
-## Industry Culture {-}
 
 ## Salary {-}
 
@@ -236,7 +234,7 @@ knitr::kable(tier3, "pipe", col.names=c("Company", "Avg Annual Compensation", "A
 
 ## Career Advancement and Exit Opportunities {-}
 
-Potential Career Advancement
+### Potential Career Advancement {-}
 
 * Senior Business Analyst
 
@@ -246,7 +244,7 @@ Potential Career Advancement
 
 * Data Scientist
 
-## Exit Opportunities {-}
+### Exit Opportunities {-}
 
 * MBA
 
