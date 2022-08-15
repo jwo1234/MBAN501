@@ -4,6 +4,7 @@
 
 A business analyst (BA) in a tech company utilizes data analytics, business sense, and problem solving skills to drive key business decisions. One’s responsibilities typically include defining metrics, developing reports on internal/external data, performing ad-hoc data analytics, and designing dashboards. Both technical and soft skills are important for a business analyst in tech. An analyst often needs to work with cross-functional teams, communicate with customers and stakeholders, give presentations on data insights, and collaborate with the engineers and researchers. It’s also important to note that a data analyst is often synonymous with a business analyst in certain companies, and many analyst positions in tech share the same responsibility as a business analyst but are given different, often more specific, titles for the specific areas they focus on.
 
+*****
 
 ## Education & Background {-}
 
@@ -11,6 +12,7 @@ A business analyst (BA) in a tech company utilizes data analytics, business sens
 
 * Normally requires 2+ years of relevant experience with data analytics in business context and statistical analysis
 
+*****
 
 ## Job Responsibilities {-}
 
@@ -24,11 +26,14 @@ A business analyst (BA) in a tech company utilizes data analytics, business sens
 
 * Implement data mapping to enable marketing attribution
 
+*****
 
 ## Work Life Balance {-}
 The work life balance for BAs in tech is generally better than their counterparts in finance and consulting industries. They typically work for 8 to 10 hours per day. But since a BA is often asked to perform ad-hoc analysis on internal and external data for project teams, the amount of daily responsibility varies greatly depending on the complexity of the project and the number of projects they have simultaneously.
 
 Industry Average Working Hours: 8-10 hrs
+
+*****
 
 ## Skill Sets {-}
 
@@ -52,6 +57,7 @@ Industry Average Working Hours: 8-10 hrs
 
 * Communication skills
 
+*****
 
 ## Recruiting Process {-}
 ### Job Search {-}
@@ -136,8 +142,7 @@ After you apply for a position and your resume pass the screening, you will go t
 
 * If you are familiar with recruiting process for entry-level positions at consulting and finance companies, the on-site interviews are similar to the concept of superday
 
-**Questions to Ask at End of an Interview**
-
+*****
 
 ## WWYD to prepare for this role {-}
 
@@ -196,6 +201,8 @@ business analytics, such as SQL, Python, Tableau, Excel, etc
   + For tech: dress code is not strict, casual plain color shirts are good enough
   
   + Consult career coach for what to include in your LinkedIn profile
+  
+*****
 
 ## Salary {-}
 
@@ -231,6 +238,7 @@ tier3 = read.csv("csv/tech_tier3.csv")
 knitr::kable(tier3, "pipe", col.names=c("Company", "Avg Annual Compensation", "Avg Annual Base", "Avg Annual Bonus"))
 ```
 
+*****
 
 ## Career Advancement and Exit Opportunities {-}
 
