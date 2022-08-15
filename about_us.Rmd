@@ -9,7 +9,7 @@ knitr::include_graphics("pictures/about_us/team_pic.jpeg")
 *****
 
 ## Madison Hartle {-}
-```{r pic-Mattie, echo=FALSE, out.width="30%", fig.cap="A break from skiing."}
+```{r pic-Mattie, echo=FALSE, out.width="30%", fig.cap="Madison Hartle MBAn Class of 2023"}
 knitr::include_graphics("pictures/about_us/Mattie.jpeg")
 ```
 
@@ -127,7 +127,7 @@ I was born and raised in Shanghai, China and I came to the U.S in 2016 for high 
 
 ## Jeremy (Junli) Zhou {-}
 
-```{r, echo=FALSE, out.width="30%", fig.cap="me chilling on the beach"}
+```{r, echo=FALSE, out.width="30%", fig.cap="Junli (Jeremy) Zhou MBAn 2023"}
 knitr::include_graphics("pictures/about_us/Jeremy.jpeg")
 ```
 
