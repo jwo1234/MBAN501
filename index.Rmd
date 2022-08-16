@@ -1,5 +1,5 @@
 ---
-title: "Business Analyst for Dummies"
+title: "Business Analytics for Dummies: A Deeper Look into the Roles"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book

@@ -1,6 +1,6 @@
 # About Us 
 
-## Team 3: We Also Hate Python (aka MJJJJ) {-}
+## Team 3: We Also Hate Python {-}
 
 ```{r pic-team, echo=FALSE, out.width="100%"}
 knitr::include_graphics("pictures/about_us/team_pic.jpeg")
@@ -19,33 +19,27 @@ I am a recent graduate from the University of Michigan where I earned a bachelor
 
 
 ### Professional Experience {-}
+[Linkedin](https://www.linkedin.com/in/madison-hartle-4192961a9/)
 
 Here is a list of things that I enjoy:
 
 * Received University Honors Fall/Spring Term 2021
-
 * Worked in the University of Michigan Math Lab 2020-2022
-
 * Earned Internship with New Mexico Mutual Summer 2020
 
 
 ### Fun Facts / Hobbies {-}
-
 * Long walks in the Arb
-
 * Traveling
-
 * Spending time with friends and family
-
 * Writing poetry
-
 * Eating ice cream
 
 *****
 
 ## Jenny (Yajie) Xu {-}
 
-```{r pressure, echo=FALSE, out.width = '30%', fig.cap="Jenny (Yajie) Xu MBAn Class of 2023."}
+```{r pressure, echo=FALSE, out.width = '30%', fig.cap="Jenny (Yajie) Xu MBAn Class of 2023"}
 knitr::include_graphics("pictures/about_us/Jenny.jpeg")
 ```
 
@@ -68,7 +62,7 @@ Hello My name is Jenny (Yajie) Xu. I am 22 years old and I am from Qingdao, Chin
 
 ## John Oraa {-}
 
-```{r pic-John, echo=FALSE, out.width="30%", fig.cap="John Oraa MBAn Class of 2023."}
+```{r pic-John, echo=FALSE, out.width="30%", fig.cap="John Oraa MBAn Class of 2023"}
 knitr::include_graphics("pictures/about_us/John.png")
 ```
 
@@ -83,18 +77,15 @@ My goal is to combine my technical undergraduate skills and master degree to foc
 ### Professional Experience {-}
 [Linkedin](https://www.linkedin.com/in/johnoraa/)
 
-- Research: I have conducted research in human walking gait identification, parkinson's patients foot fall detection, mesh morphing.
-
-- Engineering Design Internship
-
-- Commercial Sale/Business Analytics Experience 
-
-- Medlaunch Project Design Team: Design lead focused on developing a need based issue in our community through consulting with our community partner
+* Research: I have conducted research in human walking gait identification, parkinson's patients foot fall detection, mesh morphing.
+* Engineering Design Internship
+* Commercial Sale/Business Analytics Experience 
+* Medlaunch Project Design Team: Design lead focused on developing a need based issue in our community through consulting with our community partner
 
 
 ### Fun Facts/Hobbies {-}
-- I am half Spanish
-- I want to learn how to sail
+* I am half Spanish
+* I want to learn how to sail
 
 My Hobbies include: Water skiing, hiking, playing chess, running
 
@@ -127,34 +118,27 @@ I was born and raised in Shanghai, China and I came to the U.S in 2016 for high 
 
 ## Jeremy (Junli) Zhou {-}
 
-```{r, echo=FALSE, out.width="30%", fig.cap="Junli (Jeremy) Zhou MBAn 2023"}
+```{r, echo=FALSE, out.width="30%", fig.cap="me chilling on the beach"}
 knitr::include_graphics("pictures/about_us/Jeremy.jpeg")
 ```
 
+
 ### Background {-}
-I was born in Chongqing, a mountainous city in China that's also famous for cyperpunk-like buildings, numbing Szechuan cuisine and spicy hotpot (Yes I love my hometown!). I moved to Beijing with my parents since 10 and live there now. I came to study in the U.S. since 2013, spent 2 years of high school in Vermont, and stayed in New York for 6 years. 
+I was born in Chongqing, a mountainous city in China that's famous for the cyberpunk-like buildings, numbing Szechuan cuisine and the spicy hotpot. I moved to Beijing with my parents when I was 10 and came to study in the U.S. since 2013. I spent my first 2 years in Vermont, and stayed in New York for 6 years. 
 
-I went to New York University for undergrad and graduated with a major in Computer Science and minor in Business Studies. Through various experiences I had developed an interest in data analytics and decided to pivot to data science while developing my business sense.
+I graduated from New York University with a major in Computer Science and a minor in Business Studies. Through various internships, class projects and club activities, I had developed an interest in data analytics and decided to pivot to data science where I can translate raw data to valuable business insights. 
 
-Now, I am a Master student at Ross School of Business, University of Michigan, studying Business Analytics. I hope to work as a Data Scientist or Data Analyst at an impact-driven tech company after this graduate program and become a Product Manager in 2-3 years.
+Recently, I have enrolled in the Master of Business Analytics program at the Ross School of Business, University of Michigan. I hope to work as a Data Scientist or Data Analyst at an impact-driven company in the tech space after this graduate program and become a Product Manager in 2-3 years.
 
-### Favorite Quote {-}
-> "It's always better to light up a candle than curse the darkness." Confucius
+### Professional Experience {-}
+[Linkedin](https://www.linkedin.com/in/jeremy-junli-zhou/)
 
-### Hobbies {-}
-* Weight training
-* Basketball
-* Running
-* Cooking
-* Boxing
-* Reading
-* Movies
-* Photography
-* Snowboarding
-* Wine & Whiskey tasting
+* Quantitative trading internship at ICBC Credit Suisse
+* Software Development internship at G7
+* Technology Consulting internship at Accenture
 
-### Fun Fact {-}
-* Did sailing in high school
-* Was a part of a dragon dance team
-* Breakfast is my favorite meal of the day. Just can't live without eggs
-* Try to meditate 5 minutes at least every day
+
+### Fun Fact / Hobbies {-}
+* I started playing basketball for the sake of losing weight during elementary school and it has become my favorite sport
+* I did sailing in my high school and got a New York sailing permit
+* Breakfast is my favorite meal of the day

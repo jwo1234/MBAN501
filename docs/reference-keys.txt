@@ -9,3 +9,7 @@ business-analyst-in-consulting
 business-analyst-in-tech
 business-analyst-in-finance
 teamwork-process
+setting-team-charter
+initial-stage
+mid-point-evaluation
+change-in-project-scope
