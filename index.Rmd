@@ -1,5 +1,4 @@
 ---
-title: "Business Analytics for Dummies: A Deeper Look into the Roles"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -7,7 +6,7 @@ link-citations: yes
 description: "This is guide to the roles of a Business Analyst in 3 highly desired industries (consulting, tech, and finance) and the role of business analysts in different teams."
 ---
 
-# Preface {-}
+# Business Analytics for Dummies: A Deeper Look into the Roles {-}
 
 ```{r pic-preface, echo=FALSE}
 knitr::include_graphics("pictures/business_analytics_word_cloud.jpeg")
